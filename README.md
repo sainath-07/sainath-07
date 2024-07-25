@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sainath Billadar</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
-- 🌱 I’m currently learning **ReactJs**
+
 
 - 📫 How to reach me **sainathb308@gmail.com**
 
